@@ -10,3 +10,4 @@ https://github.com/user-attachments/assets/6c741a6f-f56c-4568-944e-bee2ee0e9d1d
 From splashscreen, it directly navigates to Surah page.
 
 ![surah_page](https://github.com/user-attachments/assets/042d9e14-53dd-4b4b-b8a8-7d987b732729)
+![surah_page_ind](https://github.com/user-attachments/assets/c25b0d0e-1986-4ce4-a630-ba4e4a3ca0a4)
