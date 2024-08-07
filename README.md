@@ -29,6 +29,7 @@ By pressing "Translations",they will be able to select translation according to 
 
 https://github.com/user-attachments/assets/8532d19d-9899-471f-b487-a20f86a6e6b6
 
+
 From quick navigation,Reader will be able to reach any particular verse of a surah by scrollable selection.
 
 
