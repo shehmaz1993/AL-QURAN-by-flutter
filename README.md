@@ -23,5 +23,10 @@ if readers press it, there are several features to modify the internal materials
 
 ![menu](https://github.com/user-attachments/assets/1a782c1a-f800-4483-9449-a2fd89a918c6)![menubar-1](https://github.com/user-attachments/assets/251c402e-dac9-4fff-be8e-3ae8974e32bd)![menubar-font](https://github.com/user-attachments/assets/7364ab5a-c723-4d43-b537-57b31623f93b)![menubar-reading](https://github.com/user-attachments/assets/dc730310-ac0b-49e9-8e5e-95be276a6368)
 
+By pressing "Translations",they will be able to select translation according to their will.Font size can be decided by pressing the "Font Settings".If readers want to see arabic verses without any meaning, "Reading Mode" is the option to achieve it.That UI is like-
+
+
+
+https://github.com/user-attachments/assets/8532d19d-9899-471f-b487-a20f86a6e6b6
 
 
