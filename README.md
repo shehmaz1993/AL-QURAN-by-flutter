@@ -20,3 +20,6 @@ https://github.com/user-attachments/assets/dee54ef3-d6dc-441f-abe0-3d459f160f6d
 
 In surah Page, there is a menu button at the top-left corner of the page.
 ![surah_page_ind](https://github.com/user-attachments/assets/b9210eda-611e-4145-bb2e-4840bee525b8)
+
+if readers press it, there are several features to modify the internal materials. 
+![menu](https://github.com/user-attachments/assets/1a782c1a-f800-4483-9449-a2fd89a918c6)
