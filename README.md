@@ -10,6 +10,11 @@ https://github.com/user-attachments/assets/6c741a6f-f56c-4568-944e-bee2ee0e9d1d
 From splashscreen, it directly navigates to Surah page.
 
 ![surah_page](https://github.com/user-attachments/assets/042d9e14-53dd-4b4b-b8a8-7d987b732729)
+
 if readers press any of the surahs,it will nevigate to that particular surah. Such as, if "Surah Al-Baqarah" is pressed, it wil nevigate to all the verses of "Surah Al-Baqarah".
-https://github.com/user-attachments/assets/919886c3-d1eb-49cc-b67c-06e9b4b9c0e3
+
+
+
+
+https://github.com/user-attachments/assets/dee54ef3-d6dc-441f-abe0-3d459f160f6d
 
