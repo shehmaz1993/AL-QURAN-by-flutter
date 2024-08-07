@@ -33,5 +33,6 @@ https://github.com/user-attachments/assets/8532d19d-9899-471f-b487-a20f86a6e6b6
 From quick navigation,Reader will be able to reach any particular verse of a surah by scrollable selection.
 
 
-https://github.com/user-attachments/assets/c46e758b-b0ae-4658-86f9-52ba9f399152  ![quick_navigation](https://github.com/user-attachments/assets/11b23173-9d06-435b-9553-7e48e1aa2713) ![q_to_w](https://github.com/user-attachments/assets/7fae458b-769a-422f-9db7-f4a871c22582)
+https://github.com/user-attachments/assets/c46e758b-b0ae-4658-86f9-52ba9f399152  
+![quick_navigation](https://github.com/user-attachments/assets/11b23173-9d06-435b-9553-7e48e1aa2713)  ![q_to_w](https://github.com/user-attachments/assets/7fae458b-769a-422f-9db7-f4a871c22582)
 
