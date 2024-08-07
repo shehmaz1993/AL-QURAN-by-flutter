@@ -44,8 +44,7 @@ If readers press any word, all the detailed information of that word is displaye
 https://github.com/user-attachments/assets/58829c13-0021-4e78-8d2a-31d433a36e6d
 
 
-![word-press](https://github.com/user-attachments/assets/e8570fc4-c4d5-4706-891f-728eab692996)   
-![word_2_v](https://github.com/user-attachments/assets/0d196131-df28-44d9-ae9d-bce5579257c2)
+![word-press](https://github.com/user-attachments/assets/e8570fc4-c4d5-4706-891f-728eab692996)   ![word_2_v](https://github.com/user-attachments/assets/0d196131-df28-44d9-ae9d-bce5579257c2)
 
 
 
