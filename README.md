@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/58829c13-0021-4e78-8d2a-31d433a36e6d
 
 
 
-At the top right corner,there is a search icon, which is available in every screen. Readers can search anything by pressing it,as it navigates to serach page.
+At the top right corner,there is a search icon, which is available in every screen. Readers can search anything by pressing it,as it navigates to serach page. If readers write anything at that search box, suggestions related to that typed word will be displayed including surah no and  verse no and pressing any of that suggestions will navigate to that particular verse of that surah.  
 
 
 
@@ -57,5 +57,7 @@ https://github.com/user-attachments/assets/355a1603-5e5e-4989-9490-20b934483489
 
 ![suggestion](https://github.com/user-attachments/assets/e2cf5078-6d48-42b5-a6ca-08cf28b73496)![suggestion-2](https://github.com/user-attachments/assets/865a25ac-b61b-4295-b3d4-0795b1cd157b)![suggestion-3](https://github.com/user-attachments/assets/7ef398f4-ff5a-40e9-9a81-f8de12fa0b82)![suggestion-4](https://github.com/user-attachments/assets/d462613e-ad88-4401-b0bb-22506b9c28e4)
 
+ 
+But instead of selecting from those suggestions, if readers press the search button,which is  at the trailing point of that search box, it will show all the verses which include that typed word.  
 
 
