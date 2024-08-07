@@ -34,5 +34,6 @@ From quick navigation,Reader will be able to reach any particular verse of a sur
 
 
 https://github.com/user-attachments/assets/c46e758b-b0ae-4658-86f9-52ba9f399152  
+
 ![quick_navigation](https://github.com/user-attachments/assets/11b23173-9d06-435b-9553-7e48e1aa2713)  ![q_to_w](https://github.com/user-attachments/assets/7fae458b-769a-422f-9db7-f4a871c22582)
 
