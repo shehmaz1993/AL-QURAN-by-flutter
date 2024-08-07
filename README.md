@@ -48,5 +48,14 @@ https://github.com/user-attachments/assets/58829c13-0021-4e78-8d2a-31d433a36e6d
 
 
 
+At the top right corner,there is a search icon, which is available in every screen. Readers can search anything by pressing it,as it navigates to serach page.
+
+
+
+https://github.com/user-attachments/assets/355a1603-5e5e-4989-9490-20b934483489
+
+
+![suggestion](https://github.com/user-attachments/assets/e2cf5078-6d48-42b5-a6ca-08cf28b73496)![suggestion-2](https://github.com/user-attachments/assets/865a25ac-b61b-4295-b3d4-0795b1cd157b)![suggestion-3](https://github.com/user-attachments/assets/7ef398f4-ff5a-40e9-9a81-f8de12fa0b82)![suggestion-4](https://github.com/user-attachments/assets/d462613e-ad88-4401-b0bb-22506b9c28e4)
+
 
 
