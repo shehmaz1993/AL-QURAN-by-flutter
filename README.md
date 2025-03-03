@@ -60,5 +60,11 @@ https://github.com/user-attachments/assets/355a1603-5e5e-4989-9490-20b934483489
 
  
 But instead of selecting from those suggestions, if readers press the search button,which is  at the trailing point of that search box, it will show all the verses which include that typed word.  
+the latest update is below:
+
+
+
+https://github.com/user-attachments/assets/c7d11d9c-a718-4e81-a77c-678f40c6e56b
+
 
 
